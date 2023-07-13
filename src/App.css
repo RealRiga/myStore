@@ -1,0 +1,83 @@
+* {
+    padding: 0%;
+    margin: 0;
+    box-sizing: border-box;
+}
+.img-text{
+    margin-top: 180px;
+    margin-bottom: -50px;
+    display: flex;
+    justify-content: space-between;
+}
+.jewelry-img {
+    width: 290px;
+    height: 590px;
+    margin-left: 100px;
+    margin-right: 50px;
+    margin-top: -50px;
+}
+
+.jewelry-text{
+    color: black;
+    font-size: 20px;
+    margin-top: -180px;
+    border: 2px solid #fff;
+    background-color: #fff;
+    width: 130vh;
+    height: 87.5vh;
+    padding: 50px;
+    padding-top: 210px;
+}
+.product-items{
+    text-align: center;
+    font-size: 30px;
+    font-weight: 600;
+}
+
+.CatName{
+  text-align: center;
+  font-size: 30px;
+  font-weight: 600;
+
+}
+
+/* New */
+/* Slideshow */
+
+/* 
+  /* Categories */
+.category{
+  display: flex;
+  justify-content: space-around;
+  padding-top: 20px;
+  list-style: none;
+  cursor: pointer;
+  color: #07001f;
+  text-decoration: underline;
+  font-weight: 700;
+}
+
+.about-text{
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 150px;
+}
+.about-img {
+  width: 290px;
+  /* height: 590px; */
+  margin-left: 100px;
+  margin-right: 50px;
+  margin-top: 250px;
+}
+
+.about-word{
+  color: black;
+  font-size: 20px;
+  margin-top: 0px;
+  border: 2px solid #fff;
+  background-color: #fff;
+  width: 130vh;
+  /* height: 87.5vh; */
+  padding: 50px;
+  padding-top: 210px;
+}
