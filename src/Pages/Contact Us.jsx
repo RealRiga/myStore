@@ -12,7 +12,7 @@ function ContactUs() {
   return (
     <div className="min-h-screen">
       <Header />
-      <div className="contactUs" style={{zIndex: 1}}>
+      <div className="contactUs" style={{ zIndex: 1 }}>
         <div className="title">
           <h2>Get In Touch</h2>
         </div>
@@ -38,7 +38,7 @@ function ContactUs() {
                   </div>
                   <div className="inputBox">
                     <span>Mobile</span>
-                    <input type="text" placeholder="" />
+                    <input type="text" placeholder="+234 000 000 000" />
                   </div>
                 </div>
                 <div className="row100">
@@ -69,9 +69,7 @@ function ContactUs() {
                 <span>
                   <ion-icon name="mail"></ion-icon>
                 </span>
-                <a href="mailto:mystore1234@gmail.com">
-                  mystore1234@gmail.com
-                </a>
+                <a href="mailto:mystore1234@gmail.com">mystore1234@gmail.com</a>
               </div>
               <div>
                 <span>
