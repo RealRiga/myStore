@@ -92,7 +92,7 @@ function ContactUs() {
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="http://instagram.com">
                     <i className="fab fa-instagram-square"></i>
                   </a>
                 </li>
