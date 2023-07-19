@@ -82,7 +82,7 @@ function ContactUs() {
 
               <ul className="sci">
                 <li>
-                  <a href="#">
+                  <a href="www.facebook.com">
                     <i className="fab fa-facebook"></i>
                   </a>
                 </li>
