@@ -87,7 +87,7 @@ function ContactUs() {
                   </a>
                 </li>
                 <li>
-                  <a href="#">
+                  <a href="https://whatsapp.com">
                     <ion-icon name="logo-whatsapp"></ion-icon>
                   </a>
                 </li>
