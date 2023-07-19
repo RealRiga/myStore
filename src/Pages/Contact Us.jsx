@@ -38,7 +38,9 @@ function ContactUs() {
                   </div>
                   <div className="inputBox">
                     <span>Mobile</span>
-                    <input type="text" placeholder="+234 000 000 000" />
+                    {/* <select name="c-code"/> */}
+
+                    <input type="text" placeholder="+234 000 000 000" name="c-code" maxLength={16} />
                   </div>
                 </div>
                 <div className="row100">
