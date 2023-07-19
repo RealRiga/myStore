@@ -24,11 +24,11 @@ function ContactUs() {
                 <div className="row50">
                   <div className="inputBox">
                     <span>First Name</span>
-                    <input type="text" placeholder="" />
+                    <input type="text" placeholder="Joe" />
                   </div>
                   <div className="inputBox">
                     <span>Last Name</span>
-                    <input type="text" placeholder="" />
+                    <input type="text" placeholder="Matt" />
                   </div>
                 </div>
                 <div className="row50">
