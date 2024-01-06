@@ -41,7 +41,7 @@ function SpecialProduct() {
   const dispatch = useDispatch();
   const handleAddToCart = (value) => {
     dispatch(addToCart(value));
-  };
+  }; 
 
   return (
     <div className="min-h-screen">

@@ -18,7 +18,7 @@ export const items = [
   {
     id: 1,
     image: GoldenWrist,
-    price: "8npm000",
+    price: "$200",
     title: "Golden Wrist Chain ",
     category: "Amethyst",
     description:

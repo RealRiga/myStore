@@ -26,11 +26,11 @@ const Home = () => {
     <>
       <div className="min-h-screen">
         <Header />
-        <div class="img-text">
-          <div className="jewelry-img">
-            <img src={back} alt="jewelry picture" />
+        <div className="img-text grid grid-cols-1 md:flex justify-between">
+          <div className="jewelry-img w-130vh md:w-[290px] h-[590px] md:h-auto mb-0 md:mb-0">
+            <img src={back} alt="jewelry picture" className="w-full h-full" />
           </div>
-          <div className="jewelry-text">
+          <div className="jewelry-text text-black text-base md:text-lg lg:text-xl mt-[-180px] border-2 border-white bg-white w-full md:w-[130vh] md:h-[87.5vh] p-8 pt-[210px]">
             <h1>
               Jewelry is a great symbol of social or personal status. It could
               denote affiliation in marriage or membership in certain clubs or
